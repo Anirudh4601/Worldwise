@@ -11,7 +11,7 @@ import BackButton from "./BackButton";
 import useUrlPosition from "../../hooks/useUrlposition";
 import Message from "./Message";
 import Spinner from "./Spinner";
-import { useCities } from "../contexts/CityCOntext";
+import { useCities } from "../contexts/Citycontext";
 import { useNavigate } from "react-router-dom";
 
 // eslint-disable-next-line react-refresh/only-export-components
